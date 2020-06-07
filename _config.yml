@@ -3,6 +3,7 @@
 # Date: 04-jun-2020
 title: "Cesar Costa"
 description: A Template for Jekyll
+favicon: "/_includes/icons/favicon.ico"
 
 # Files
 baseurl:
